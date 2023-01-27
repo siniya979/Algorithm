@@ -8,3 +8,4 @@ class Solution {
         return answer;
     }
 }
+// return (int) Arrays.stream(array).filter(i -> i == n).count();
